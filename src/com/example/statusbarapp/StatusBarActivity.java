@@ -45,6 +45,7 @@ public class StatusBarActivity extends Activity {
 	 */
 	private SystemUiHider mSystemUiHider;
 
+laksdhlfk asdfkjalksdjflkasjdlfj
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
